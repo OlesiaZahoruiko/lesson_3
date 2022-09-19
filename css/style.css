@@ -1,0 +1,43 @@
+* {
+  color: black;
+}
+
+h1 {
+  color: blue;
+}
+
+.text {
+  color: darkslategrey;
+}
+
+#block-1,
+#block-2,
+#block-3,
+#block-4,
+#block-5 {
+  color: brown;
+}
+
+header .paragraph {
+  color: darkcyan;
+}
+
+.list a {
+  color: darkgreen;
+}
+
+.list.ordered {
+  color: darkcyan;
+}
+
+.block-1 > p {
+  color: darkviolet;
+}
+
+.block-2 ~ p {
+  color: seagreen;
+}
+
+.block-3 + p {
+  color: olive;
+}
